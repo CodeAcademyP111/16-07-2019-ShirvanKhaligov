@@ -1,0 +1,10 @@
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\bin\Debug\TaskThread.exe.config
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\bin\Debug\TaskThread.exe
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\bin\Debug\TaskThread.pdb
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\obj\Debug\TaskThread.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\obj\Debug\TaskThread.Form1.resources
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\obj\Debug\TaskThread.Properties.Resources.resources
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\obj\Debug\TaskThread.csproj.GenerateResource.cache
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\obj\Debug\TaskThread.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\obj\Debug\TaskThread.exe
+C:\Users\Aishe\Desktop\p111\C#\16.07.2019\TaskThread\TaskThread\obj\Debug\TaskThread.pdb
